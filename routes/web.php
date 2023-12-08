@@ -1,7 +1,7 @@
 <?php
 
 use FileImportController;
-use Illuminate\Support\Facades\Route;
+use Illuminate\Routing\Route;
 
 /*
 |--------------------------------------------------------------------------
