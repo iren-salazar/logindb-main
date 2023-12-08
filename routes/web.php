@@ -1,7 +1,8 @@
 <?php
 
-use FileImportController;
-use Illuminate\Routing\Route;
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\FileImportController;
 
 /*
 |--------------------------------------------------------------------------
